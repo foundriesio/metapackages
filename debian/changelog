@@ -1,3 +1,11 @@
+osf-metapackages (0.8) UNRELEASED; urgency=medium
+
+  * Migrate from ltd to osf:
+    - Source package renamed to osf-metapackages
+    - genesis-dev renamed to osf-dev
+
+ -- Ricardo Salveti <ricardo@opensourcefoundries.com>  Thu, 05 Oct 2017 14:16:32 -0300
+
 genesis-metapackages (0.7) xenial; urgency=medium
 
   * genesis-dev: also depend on device-tree-compiler

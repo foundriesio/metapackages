@@ -2,6 +2,7 @@ Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 
 Files: *
 Copyright: 2017 Linaro Ltd.
+           2017 Open Source Foundries Ltd.
 License: GPL-3.0+
 
 License: GPL-3.0+
