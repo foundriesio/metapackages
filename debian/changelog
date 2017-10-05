@@ -1,4 +1,4 @@
-osf-metapackages (0.8) UNRELEASED; urgency=medium
+osf-metapackages (0.8) xenial; urgency=medium
 
   * Migrate from ltd to osf:
     - Source package renamed to osf-metapackages
