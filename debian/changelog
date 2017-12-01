@@ -1,3 +1,9 @@
+osf-metapackages (0.9) UNRELEASED; urgency=medium
+
+  * debian/control: point vcs git and browser to source.foundries.io
+
+ -- Ricardo Salveti <ricardo@opensourcefoundries.com>  Fri, 01 Dec 2017 16:39:37 -0200
+
 osf-metapackages (0.8) xenial; urgency=medium
 
   * Migrate from ltd to osf:

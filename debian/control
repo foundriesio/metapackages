@@ -4,8 +4,8 @@ Priority: optional
 Maintainer: Ricardo Salveti <ricardo@opensourcefoundries.com>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.7
-Vcs-Git: https://git.opensourcefoundries.com/development/microplatforms/common/metapackages.git
-Vcs-Browser: https://git.opensourcefoundries.com/development/microplatforms/common/metapackages
+Vcs-Git: https://source.foundries.io/metapackages.git
+Vcs-Browser: https://source.foundries.io/metapackages.git
 
 Package: zmp-dev
 Architecture: all
