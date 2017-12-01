@@ -1,6 +1,9 @@
 osf-metapackages (0.9) UNRELEASED; urgency=medium
 
-  * debian/control: point vcs git and browser to source.foundries.io
+  * debian/control:
+    - Point vcs git and browser to source.foundries.io
+    - zmp: add cmake, gperf and ninja-build as dependencies, as recommended by
+      latest Zephyr upstream
 
  -- Ricardo Salveti <ricardo@opensourcefoundries.com>  Fri, 01 Dec 2017 16:39:37 -0200
 
