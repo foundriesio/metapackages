@@ -1,3 +1,11 @@
+osf-metapackages (0.10) UNRELEASED; urgency=medium
+
+  * debian/control:
+    - Bump minimal cmake version to 3.13.1 (zephyr requirement)
+    - zmp: add libtool as extra dependency
+
+ -- Ricardo Salveti <rsalveti@rsalveti.net>  Fri, 08 Feb 2019 22:14:34 -0200
+
 osf-metapackages (0.9) xenial; urgency=medium
 
   * debian/control:
