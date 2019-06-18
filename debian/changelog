@@ -1,3 +1,9 @@
+osf-metapackages (0.11) xenial; urgency=medium
+
+  *  debian/control: zmp: add m4 as extra dependency
+
+ -- Ricardo Salveti <rsalveti@rsalveti.net>  Tue, 18 Jun 2019 09:04:59 -0300
+
 osf-metapackages (0.10) xenial; urgency=medium
 
   * debian/control:
